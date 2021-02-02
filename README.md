@@ -1,5 +1,10 @@
 #ISIS1225 - Estructura de un proyecto
 
+Información integrantes:
+Felipe Garzon Torres, f.garzon@uniandes.edu.co, 202021161
+Pablo Ortega Cadavid, p.ortegac@uniandes.edu.co, 202021700
+---------------------------------------------------------------------------------------------------------------
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
